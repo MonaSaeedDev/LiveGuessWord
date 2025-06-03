@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\bin\Debug\net8.0\LiveGuessWord.deps.json
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\bin\Debug\net8.0\LiveGuessWord.dll
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\bin\Debug\net8.0\LiveGuessWord.pdb
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.dll
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\refint\LiveGuessWord.dll
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.pdb
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\ref\LiveGuessWord.dll
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\bin\Debug\net8.0\LiveGuessWord.exe
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\bin\Debug\net8.0\LiveGuessWord.runtimeconfig.json
+C:\Users\DELL\source\repos\LiveGuessWord\LiveGuessWord\obj\Debug\net8.0\LiveGuessWord.genruntimeconfig.cache
